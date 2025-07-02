@@ -1,0 +1,65 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background: url(https://pub-static.fotor.com/assets/bg/cab89e0e-3d41-4e41-bc58-ad4321c23a21.png);
+}
+.container{
+    width: 100%;
+    height: 800px;
+    display:inline-block;
+    justify-items: center;
+}
+h1{
+    color: #fff;
+    text-decoration: underline;
+    font-size: 50px;
+    margin-top: 8%;
+    height: 100px;
+}
+#ht,
+#wt{
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 10%;
+}
+#height{
+    padding: 6%;
+}
+#weight{
+    padding: 6%;
+}
+#height:hover{
+    transform: scaleX(1.5);
+    border: 2px solid white;
+}
+#weight:hover{
+    transform: scaleX(1.5);
+    border: 2px solid white;
+}
+#btn{
+    margin-top: 15%;
+    background-color: rgb(99, 209, 212);
+    font-size: 15px;
+    font-weight: bolder;
+    margin-left: 60px;
+    padding: 3% 10%;
+}
+#btn:hover{
+    background-color: #c2beaf;
+    cursor: pointer;
+}
+#result{
+    margin: 15%;
+    text-align: center;
+    color: #c2beaf;
+    font-size: 30px;
+}
+#weight-guide{
+    color: #c2beaf;
+    margin-top: 30%;
+}
