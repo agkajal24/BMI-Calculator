@@ -14,7 +14,7 @@ A simple and interactive Body Mass Index (BMI) calculator built using **HTML**, 
 - JavaScript
 
 ## 🔗 Live Link
-[Click here to try the live app](https://your-live-link.com)
+https://agkajal24.github.io/BMI-Calculator/
 
 ## 📁 How to Use
 1. Clone the repo
